@@ -1,3 +1,1 @@
-.hola{
-    @apply bg-blue-800;
-}
+@import './components/header/header-container.css';
